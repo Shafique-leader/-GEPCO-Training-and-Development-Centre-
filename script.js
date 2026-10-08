@@ -79,4 +79,4 @@ const footerText =
 
 footerText.textContent =
     "© " + currentYear +
-    " Technical Training Institute. All Rights Reserved.";
+    " GEPCO Training and Development Centre. All Rights Reserved.";
